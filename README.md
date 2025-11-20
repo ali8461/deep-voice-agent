@@ -1,4 +1,4 @@
-﻿# 💊 Voice-Enabled Pharmacy Assistant
+﻿# 💊 Voice-Enabled Assistant
 
 A conversational voice agent for a pharmacy business built using **Twilio**, **Deepgram**, **OpenAI GPT-4o**, and **ngrok**. It answers phone calls, processes speech in real time, and handles tasks such as checking drug info, placing orders, and looking up order status.
 
